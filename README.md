@@ -1,7 +1,5 @@
 # Initialized using npx create-react-app
 
-# Then installed all pakages using npm install redux react-redux @reduxjs/toolkit
-
 Then installed all pakages using npm install redux react-redux @reduxjs/toolkit
 
 # Getting Started with Create React App
