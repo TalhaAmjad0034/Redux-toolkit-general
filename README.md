@@ -1,3 +1,9 @@
+# Initialized using npx create-react-app
+
+# Then installed all pakages using npm install redux react-redux @reduxjs/toolkit
+
+Then installed all pakages using npm install redux react-redux @reduxjs/toolkit
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
